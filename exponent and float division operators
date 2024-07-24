@@ -1,0 +1,6 @@
+a=a**b
+print(a)
+125.0
+a=a//b
+print(a)
+41.0
