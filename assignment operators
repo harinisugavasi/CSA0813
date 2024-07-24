@@ -1,0 +1,14 @@
+a=5
+b=3
+a=a+b
+print(a)
+8
+a=a-b
+print(a)
+5
+a=a*b
+print(a)
+15
+a=a/b
+print(a)
+5.0
