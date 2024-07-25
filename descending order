@@ -1,0 +1,4 @@
+a=[77,2,65,9]
+b=sorted(a,reverse=True)
+print(b)
+[77, 65, 9, 2]
