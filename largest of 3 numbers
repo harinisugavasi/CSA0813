@@ -1,0 +1,9 @@
+a=15
+b=16
+c=14
+if(a>b & a>c):
+ print("a is large")
+elif(b>a & b>c):
+ print("b is large")
+else:
+ print("c is large")
