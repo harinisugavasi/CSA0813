@@ -1,0 +1,4 @@
+a=("good morning")
+print(len(a))
+12
+
