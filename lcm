@@ -1,0 +1,6 @@
+import math
+def lcm(a,b):
+    return abs(a * b)
+num1 =10
+num2 =15
+print(f"the lcm of{num1} and {num2} is {lcm(num1, num2)}")
