@@ -1,0 +1,10 @@
+num=121
+sum=0
+n=num
+while n>0:
+    sum+=(n%10)**3
+    n//=10
+if(num==sum):
+    print("armstrng number")
+else:
+    print("print not armstrong number")
