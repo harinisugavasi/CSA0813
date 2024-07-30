@@ -1,0 +1,5 @@
+def convert(list):
+    a=tuple(list)
+    print(a)
+convert ([5,6,7,8])
+
