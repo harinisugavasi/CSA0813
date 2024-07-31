@@ -1,0 +1,25 @@
+a="bitch"
+print(a[0])
+b
+print(a[-1])
+h
+print(a[0:4])
+bitc
+print(a[:3])
+bit
+print(a[0:])
+bitch
+a="me"
+b="you"
+print(a+b)
+meyou
+a="harini"
+print(3*a)
+harinihariniharini
+a="be you"
+print("b" is in a)
+SyntaxError: invalid syntax
+print("b" in a)
+True
+print("x" in a)
+False
