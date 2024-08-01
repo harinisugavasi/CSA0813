@@ -1,0 +1,8 @@
+import math
+num=6
+sqrt_num=math.sqrt(num)
+if sqrt_num.is_integer():
+    print("perfect square")
+else:
+    print("not a perfect square")
+
