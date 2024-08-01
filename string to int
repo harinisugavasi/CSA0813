@@ -1,4 +1,2 @@
-def convert(b):
-    print(int(float(b)))
-
-convert("15.78")
+b="1.02"
+print(int(float(b)))
