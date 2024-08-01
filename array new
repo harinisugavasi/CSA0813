@@ -1,0 +1,20 @@
+import array
+a=array.array('i',[1,2,3,4,5])
+a.append(7)
+print("After append:",a)
+After append: array('i', [1, 2, 3, 4, 5, 7])
+a.insert(2,6)
+print("After insert:",a)
+After insert: array('i', [1, 2, 6, 3, 4, 5, 7])
+a.pop(1)
+2
+b=a.index(4)
+print("index of 4:",b)
+index of 4: 3
+a.reverse()
+print("After reverse:",a)
+After reverse: array('i', [7, 5, 4, 3, 6, 1])
+c=a.count(4)
+print(c)
+1
+
