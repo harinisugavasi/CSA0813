@@ -1,0 +1,5 @@
+n=15
+if(n%5==0 or n%3==0):
+   print("is divisible")
+else:
+    print("not divisible")
