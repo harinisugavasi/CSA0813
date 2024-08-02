@@ -1,0 +1,6 @@
+def inc():
+     a=[2,5,1,8,6]
+     a.sort()
+     print(a)
+inc()
+ 
