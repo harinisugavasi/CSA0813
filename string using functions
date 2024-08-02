@@ -1,0 +1,4 @@
+def str():
+     k="hello"[::-1]
+     print(k)
+str()
